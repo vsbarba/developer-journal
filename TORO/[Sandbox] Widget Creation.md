@@ -65,19 +65,28 @@ as a way to validate if a widget will pass.
 ```html
 <!--
 
+Author: Victor S. Barba
+Email : victor.barba@torocommerce.com
+
 ## DO NOTE CHANGE, SAVE, UPDATE OR DELETE THIS WIDGET
 
+-->
+
+<!--
 ## CSS Includes Below
 ## If possible use style.css unless you need to provide external resources css
 ## for your project. As long as we don't ahve the frameworks and extensions working,
 ## you are allowed to add externall css resources but please be guided that
 ## most of the css you need are already included in the extensions.
+-->
 
+<!--
 ## Velocity Variables Below
+-->
 
+<!--
 ## Velocity Html Content Below
 ## This widget is from http://themeforest.net/item/garbini-bootstrap-ecommerce-template/full_screen_preview/7494288
-
 -->
 
 <div class="row product-parent">
@@ -112,6 +121,7 @@ as a way to validate if a widget will pass.
 ##  Put external resources below if needed but NOTE that this will be temporary
 ##  Until we handle external resources on frameworks and extension if possible avoid
 -->
+
 <!--
 ##  Adding scripts in here
 -->
