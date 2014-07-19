@@ -29,5 +29,5 @@ $ exec zsh
 ```
 # Step 1. Initially it has a "robbyrussell" theme change it to "amuse"
 
-$ vi ~/zshrc
+$ vi ~/.zshrc
 ```
